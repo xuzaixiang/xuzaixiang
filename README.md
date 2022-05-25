@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Graphics Researcher and Developer having interest in Applications of Computer Graphics, Unix based Systems, Android, Reverse Engineering and Programming.
 <!--
 **xuzaixiang/xuzaixiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
